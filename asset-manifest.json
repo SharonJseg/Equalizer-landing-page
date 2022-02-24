@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2ac52224.css",
+    "main.js": "/static/js/main.efb2f535.js",
+    "static/js/787.a10343c0.chunk.js": "/static/js/787.a10343c0.chunk.js",
+    "static/media/bg-main-desktop.png": "/static/media/bg-main-desktop.8085941e729a2e4c8077.png",
+    "static/media/IBMPlexSans-Regular.woff": "/static/media/IBMPlexSans-Regular.584e723c567508ba905c.woff",
+    "static/media/bg-main-tablet.png": "/static/media/bg-main-tablet.25e488fd235ddef4319d.png",
+    "static/media/IBMPlexSans-Bold.woff": "/static/media/IBMPlexSans-Bold.4e7aa42971f2a24614d4.woff",
+    "static/media/IBMPlexSans-Bold.woff2": "/static/media/IBMPlexSans-Bold.a05d0557b5c6f862d59d.woff2",
+    "static/media/IBMPlexSans-Regular.woff2": "/static/media/IBMPlexSans-Regular.03418c694432320d7ebd.woff2",
+    "static/media/bg-main-mobile.png": "/static/media/bg-main-mobile.5c908035d1b50f7aac83.png",
+    "static/media/illustration-app.png": "/static/media/illustration-app.ba314fadcdc0e3315830.png",
+    "static/media/logo.svg": "/static/media/logo.dee4653fc1e24c577e46587ca95c30bd.svg",
+    "static/media/icon-android.svg": "/static/media/icon-android.4cafae52379b120e0b591571c6b45b9f.svg",
+    "static/media/bg-pattern-1.svg": "/static/media/bg-pattern-1.7288106dc08a3c8498e091ffb40c2a0f.svg",
+    "index.html": "/index.html",
+    "static/media/icon-apple.svg": "/static/media/icon-apple.512441f110679f33cd8eb1e9e9141f2e.svg",
+    "static/media/bg-pattern-2.svg": "/static/media/bg-pattern-2.da4438d95f7dcf5bc9f0ec4acd52cc2f.svg",
+    "main.2ac52224.css.map": "/static/css/main.2ac52224.css.map",
+    "main.efb2f535.js.map": "/static/js/main.efb2f535.js.map",
+    "787.a10343c0.chunk.js.map": "/static/js/787.a10343c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ac52224.css",
+    "static/js/main.efb2f535.js"
+  ]
+}
