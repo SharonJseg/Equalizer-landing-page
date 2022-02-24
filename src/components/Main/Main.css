@@ -1,0 +1,26 @@
+.main {
+  background-color: var(--clr-dark);
+  max-width: 1110px;
+  width: 100%;
+  border-radius: 12px;
+}
+
+.main__container {
+  position: relative;
+  height: 600px;
+  width: 100%;
+}
+
+.main__image {
+  position: absolute;
+  top: -213px;
+  left: 102px;
+  max-width: 312px;
+  z-index: 1;
+}
+
+.main__pattern {
+  position: absolute;
+  left: 336px;
+  bottom: 172px;
+}

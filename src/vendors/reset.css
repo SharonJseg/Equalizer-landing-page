@@ -37,9 +37,10 @@ body {
   font-family: var(--ff-ibm);
   color: var(--clr-dark);
   line-height: 1.26;
-  min-height: 100vh;
+  /* min-height: 100vh; */
   width: 100%;
   margin: 0 auto;
+  /* overflow-x: hidden; */
 }
 
 img,
