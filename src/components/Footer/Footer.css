@@ -25,6 +25,12 @@
 
 .footer__email {
   font-weight: 700;
+  text-decoration: none;
+  color: var(--clr-dark);
+}
+
+.footer__email:hover {
+  color: var(--clr-orange);
 }
 
 .footer__social-column {

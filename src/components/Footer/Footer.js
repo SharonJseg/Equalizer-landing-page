@@ -9,7 +9,9 @@ const Footer = () => {
         <p className='footer__contactus'>
           All rights reserved © Equalizer 2021 <br />
           Have any problems? Contact us via social media or email us at{' '}
-          <span className='footer__email'>equalizer@example.com</span>
+          <a href='#' className='footer__email'>
+            equalizer@example.com
+          </a>
         </p>
       </div>
       <div className='footer__social-column'>

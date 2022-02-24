@@ -64,6 +64,7 @@
 
 .ios:hover {
   background-color: var(--clr-cyan);
+  transition: 0.2s ease;
 }
 
 .android {
@@ -73,6 +74,7 @@
 
 .android:hover {
   background-color: var(--clr-yellow);
+  transition: 0.2s ease;
 }
 
 @media screen and (max-width: 768px) {
