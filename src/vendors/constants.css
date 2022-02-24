@@ -1,0 +1,11 @@
+:root {
+  /* Font families */
+  --ff-ibm: 'IBM Plex Sans', sans-serif;
+
+  /* Colors */
+  --clr-cyan: #66e2dc;
+  --clr-orange: #fa7453;
+  --clr-yellow: #ffb964;
+  --clr-light: #fcfaf9;
+  --clr-dark: #191826;
+}
