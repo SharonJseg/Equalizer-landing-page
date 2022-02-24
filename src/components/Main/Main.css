@@ -24,3 +24,39 @@
   left: 336px;
   bottom: 172px;
 }
+
+@media screen and (max-width: 768px) {
+  .main {
+    max-width: 696px;
+  }
+
+  .main__image {
+    top: -138px;
+    left: 64px;
+    max-width: 270px;
+  }
+
+  .main__pattern {
+    max-width: 280px;
+    left: 229px;
+    bottom: 211px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .main {
+    max-width: 375px;
+  }
+
+  .main__image {
+    top: -98px;
+    left: 80.67px;
+    max-width: 209px;
+  }
+
+  .main__pattern {
+    max-width: 280px;
+    left: 48px;
+    bottom: 180px;
+  }
+}

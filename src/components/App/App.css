@@ -6,3 +6,15 @@
   flex-direction: column;
   align-items: center;
 }
+
+@media screen and (max-width: 768px) {
+  .page {
+    background: url(../../images/bg-main-tablet.png) -300px -300px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .page {
+    background: url(../../images/bg-main-mobile.png) -300px -300px;
+  }
+}

@@ -74,3 +74,43 @@
 .android:hover {
   background-color: var(--clr-yellow);
 }
+
+@media screen and (max-width: 768px) {
+  .call-to-action {
+    max-width: 399px;
+    top: 150px;
+    right: 58px;
+    padding: 48px 54px 48px 48px;
+  }
+
+  .call-to-action__header {
+    font-size: 2rem;
+    line-height: 1.25;
+  }
+
+  .call-to-action__text {
+    padding-top: 12px;
+    font-size: 1.125rem;
+    line-height: 1.55;
+  }
+
+  .call-to-action__price {
+    padding-top: 36px;
+    padding-bottom: 32px;
+    font-size: 1.25rem;
+  }
+
+  .call-to-action__price span {
+    font-weight: 700;
+    font-size: 4.0625rem;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .call-to-action {
+    max-width: 375px;
+    top: 380px;
+    right: 0px;
+    padding: 48px 37px 48px 36px;
+  }
+}
