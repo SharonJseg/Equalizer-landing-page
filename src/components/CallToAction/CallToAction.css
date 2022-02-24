@@ -50,19 +50,27 @@
   cursor: pointer;
   font-weight: 700;
   font-size: 1.125rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
 }
 
 .ios {
   background-color: var(--clr-dark);
   color: var(--clr-light);
   margin-bottom: 16px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  fill: red;
 }
 
-.ios__icon {
-  display: inline;
-  padding-right: 8px;
+.ios:hover {
+  background-color: var(--clr-cyan);
+}
+
+.android {
+  background-color: var(--clr-light);
+  color: var(--clr-dark);
+}
+
+.android:hover {
+  background-color: var(--clr-yellow);
 }

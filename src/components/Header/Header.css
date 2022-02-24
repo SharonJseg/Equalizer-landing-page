@@ -2,8 +2,10 @@
   position: relative;
   /* width: 100%; */
   max-width: 1100px;
+  /* max-width: 1440px; */
   width: 100%;
   margin-bottom: 321px;
+  z-index: 100;
 }
 
 .logo {
@@ -17,6 +19,7 @@
   letter-spacing: -1px;
   margin-bottom: 40px;
   max-width: 1015px;
+  z-index: 1;
 }
 
 .header__text {
@@ -29,6 +32,6 @@
 .header__pattern {
   position: absolute;
   top: -40px;
-  right: -170px;
-  /* z-index: -1; */
+  right: -138px;
+  z-index: -1;
 }

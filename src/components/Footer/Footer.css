@@ -1,0 +1,44 @@
+.footer {
+  margin-top: 202px;
+  margin-bottom: 91px;
+  display: flex;
+  justify-content: space-between;
+  max-width: 1110px;
+  width: 100%;
+}
+
+.footer__logo {
+  width: 147px;
+  height: 32px;
+  align-self: top;
+  margin-right: 138px;
+}
+
+.footer__contact-column {
+  display: flex;
+}
+
+.footer__contactus {
+  width: 366px;
+  line-height: 1.625;
+}
+
+.footer__email {
+  font-weight: 700;
+}
+
+.footer__social-column {
+  align-self: center;
+}
+
+.footer__icon {
+  fill: var(--clr-dark);
+}
+
+.footer__icon:not(:last-child) {
+  margin-right: 20px;
+}
+
+.footer__icon:hover {
+  fill: var(--clr-orange);
+}

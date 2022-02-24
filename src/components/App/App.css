@@ -1,9 +1,7 @@
 .page {
   margin: 0 auto;
-  /* background-image: url(../../images/bg-main-desktop.png);
-  background-position-y: -300px; */
-
-  /* min-height: 100vh; */
+  background: url(../../images/bg-main-desktop.png) 0px -300px;
+  z-index: -100;
   display: flex;
   flex-direction: column;
   align-items: center;
