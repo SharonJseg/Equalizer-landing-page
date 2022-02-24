@@ -1,6 +1,6 @@
 .page {
   margin: 0 auto;
-  background: url(../../images/bg-main-desktop.png) 0px -300px;
+  background: url(../../images/bg-main-desktop.png) -220px -270px no-repeat;
   z-index: -100;
   display: flex;
   flex-direction: column;
@@ -9,12 +9,12 @@
 
 @media screen and (max-width: 768px) {
   .page {
-    background: url(../../images/bg-main-tablet.png) -300px -300px;
+    background: url(../../images/bg-main-tablet.png) -410px -250px no-repeat;
   }
 }
 
 @media screen and (max-width: 375px) {
   .page {
-    background: url(../../images/bg-main-mobile.png) -300px -300px;
+    background: url(../../images/bg-main-mobile.png) -0px -300px no-repeat;
   }
 }
